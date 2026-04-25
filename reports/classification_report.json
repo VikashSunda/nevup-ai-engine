@@ -1,0 +1,67 @@
+{
+    "total_profiles": 10,
+    "correct_predictions": 3,
+    "accuracy_percent": 30.0,
+    "detailed_results": [
+        {
+            "userId": "f412f236-4edc-47a2-8f54-8763a6ed2ce8",
+            "truth": "revenge_trading",
+            "predicted": "revenge_trading",
+            "match": true
+        },
+        {
+            "userId": "fcd434aa-2201-4060-aeb2-f44c77aa0683",
+            "truth": "overtrading",
+            "predicted": "overtrading",
+            "match": true
+        },
+        {
+            "userId": "84a6a3dd-f2d0-4167-960b-7319a6033d49",
+            "truth": "fomo_entries",
+            "predicted": "plan_non_adherence",
+            "match": false
+        },
+        {
+            "userId": "4f2f0816-f350-4684-b6c3-29bbddbb1869",
+            "truth": "plan_non_adherence",
+            "predicted": "plan_non_adherence",
+            "match": true
+        },
+        {
+            "userId": "75076413-e8e8-44ac-861f-c7acb3902d6d",
+            "truth": "premature_exit",
+            "predicted": "plan_non_adherence",
+            "match": false
+        },
+        {
+            "userId": "8effb0f2-f16b-4b5f-87ab-7ffca376f309",
+            "truth": "loss_running",
+            "predicted": "plan_non_adherence",
+            "match": false
+        },
+        {
+            "userId": "50dd1053-73b0-43c5-8d0f-d2af88c01451",
+            "truth": "session_tilt",
+            "predicted": "plan_non_adherence",
+            "match": false
+        },
+        {
+            "userId": "af2cfc5e-c132-4989-9c12-2913f89271fb",
+            "truth": "time_of_day_bias",
+            "predicted": "plan_non_adherence",
+            "match": false
+        },
+        {
+            "userId": "9419073a-3d58-4ee6-a917-be2d40aecef2",
+            "truth": "position_sizing_inconsistency",
+            "predicted": "time_of_day_bias",
+            "match": false
+        },
+        {
+            "userId": "e84ea28c-e5a7-49ef-ac26-a873e32667bd",
+            "truth": "control",
+            "predicted": "position_sizing_inconsistency",
+            "match": false
+        }
+    ]
+}
