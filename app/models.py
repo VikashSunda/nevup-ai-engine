@@ -1,0 +1,1 @@
+# models.py intentionally simplified because sqlite3 raw table is used.
