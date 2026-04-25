@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+nevup_memory.db
+reports/*.json
+.env
+.vscode/

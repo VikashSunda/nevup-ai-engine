@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic
+python-jose[cryptography]
+sse-starlette==2.1.3
+pandas
+numpy
+python-multipart
