@@ -81,7 +81,7 @@ nevup-ai-engine/
 └── .gitignore
 
 ---
-## Live Demo ## : https://nevup-ai-engine.onrender.com/
+## Live Demo: https://nevup-ai-engine.onrender.com/
 ## How To Run
 
 ### 1. Build and start the service
